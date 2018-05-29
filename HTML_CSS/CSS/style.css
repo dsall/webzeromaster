@@ -1,0 +1,36 @@
+
+
+body{
+	
+	background-size: cover;
+}
+
+
+h2{
+	color: red;
+	text-align: center;
+	border: 5px solid purple;
+	cursor: pointer;
+}
+
+
+p{
+	color: black;
+}
+
+
+li{
+	list-style: none;
+	color: black;
+	display: inline;
+}
+.boxmodel{
+	border: 5px solid red;
+	display: inline-block;
+	padding: 5px 20px 5px 20px;
+	margin: 0px 20px;
+}
+.text {
+	font-family: "Times New Roman";
+
+}
